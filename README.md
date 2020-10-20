@@ -1,2 +1,2 @@
 # SMTP-Mail
-Python Smptlib kütüphanesi kullanılarak mail gönderme işlemi
+Python Smtplib kütüphanesi kullanılarak mail gönderme işlemi
